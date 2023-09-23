@@ -20,4 +20,5 @@ In this part of the project, we created three pivot tables and three charts to m
 ## Dashboarding
 
 At last, we used all charts created already with the pivot tables to make a clear and concise dashboard to resume our findings upon our data using some filter buttons to make our dashboard a way more intercative:
-<br><img src="bike_sales_dashboard.png">
+<br><br>
+<img src="bike_sales_dashboard.png">
